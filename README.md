@@ -68,3 +68,4 @@ Wait approximately five minutes for your bot to deploy and start up.
 
 🎉 Congratulations! Your bot is now up and running. 🥳
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
